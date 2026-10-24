@@ -34,7 +34,6 @@ Exercícios 11-20	Exercícios de lógica e orientação a objetos.	Java
 DevMobile	Projeto de desenvolvimento mobile.	JavaScript
 Manutenção Inteligente (SA02)	Sistema especialista para triagem de ocorrências de manutenção industrial.	Prolog IA
 
-Troque as descrições acima por 1 ou 2 frases suas e coloque o link do repositório em cada projeto.
 
 Estatísticas do GitHub
 <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Guiga897&show_icons=true&theme=dark&hide_border=true&bg_color=222222&title_color=9FD67F&icon_color=9FD67F&text_color=ffffff" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiga897&layout=compact&theme=dark&hide_border=true&bg_color=222222&title_color=9FD67F&text_color=ffffff" /> <br/> <img src="https://streak-stats.demolab.com?user=Guiga897&theme=dark&hide_border=true&background=222222&ring=9FD67F&fire=9FD67F&currStreakLabel=9FD67F" height="150" /> </div>
