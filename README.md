@@ -1,6 +1,5 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222222,100:9FD67F&height=200&section=header&text=Guilherme%20Fávero&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Back-end%20%7C%20Banco%20de%20Dados%20%7C%20IA&descAlignY=58&descSize=18" width="100%"/> <a href="https://github.com/Guiga897"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=9FD67F&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme;Analista+e+Desenvolvedor+de+Sistemas;Foco+em+Back-end+e+Banco+de+Dados;P%C3%B3s-gradua%C3%A7%C3%A3o+em+Intelig%C3%AAncia+Artificial;Aberto+a+oportunidades" alt="Typing SVG" /> </a> <br/>
 
-Mostrar Imagem Mostrar Imagem Mostrar Imagem
 
 </div>
 Sobre mim
